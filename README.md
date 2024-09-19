@@ -11,7 +11,6 @@ This guide will help you deploy a smart contract to Taiko.
 ## Additional Remix prerequisites
 - You have setup your wallet - https://taiko.xyz/docs/guides/setup-your-wallet to connect to the relevant testnets.
 
-
 ## Steps
 
 ### 1. Visit the Remix website Visit remix.ethereum.org.
